@@ -1,0 +1,13 @@
+langchain-google-genai
+python-dotenv
+fastapi
+uvicorn[standard]
+streamlit
+langgraph
+beautifulsoup4
+unstructured 
+openpyxl
+langchain-community
+langchain-unstructured
+python-multipart
+langchain-core

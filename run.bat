@@ -1,0 +1,6 @@
+@echo off
+echo Starting backend server...
+start python server.py
+echo Starting frontend...
+start streamlit run client.py
+echo Both services are running. Press Ctrl+C in each window to stop.
